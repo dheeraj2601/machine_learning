@@ -1,7 +1,11 @@
 
+numpy
 pandas
 
-numpy
+matplotlib
+
+https://www.datacamp.com/community/tutorials/machine-learning-python
+
 
 
 
